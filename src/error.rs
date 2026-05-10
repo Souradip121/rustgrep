@@ -1,6 +1,7 @@
 use std::path::PathBuf;
 use thiserror::Error;
 
+#[allow(dead_code)] 
 #[derive(Debug, Error)]
 pub enum AppError {
     #[error("File not found: {0}")]

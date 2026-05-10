@@ -1,0 +1,7 @@
+[INFO]  Server started on port 8080
+[ERROR] Database connection failed
+[INFO]  User login: souradip@mail.com
+[ERROR] Timeout on request /api/posts
+[INFO]  Health check passed
+[ERROR] Redis cache miss on key user:42
+[soura] tset
